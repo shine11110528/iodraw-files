@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.97 Safari/537.36 SE 2.X MetaSr 1.0" version="24.7.17">
   <diagram id="39a44_mZQ2UqoeBN9U-U" name="第 1 页">
-    <mxGraphModel dx="1094" dy="297" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2483" dy="890" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -381,6 +381,9 @@
         </mxCell>
         <mxCell id="7sfTBrK7Ykk_Bfz8LR5p-33" value="&lt;span style=&quot;box-sizing: border-box ; border: 0px solid ; color: rgb(17 , 17 , 51) ; letter-spacing: 0.064px ; text-align: left&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;HC-SR501厕位监测模块1&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="1303" y="79" width="136" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="7sfTBrK7Ykk_Bfz8LR5p-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7sfTBrK7Ykk_Bfz8LR5p-34" target="7sfTBrK7Ykk_Bfz8LR5p-32">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7sfTBrK7Ykk_Bfz8LR5p-34" value="&lt;span style=&quot;box-sizing: border-box ; border: 0px solid ; color: rgb(17 , 17 , 51) ; letter-spacing: 0.064px ; text-align: left&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;HC-SR501厕位监测模块2&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="1498" y="79" width="136" height="56" as="geometry" />
