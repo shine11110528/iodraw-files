@@ -376,6 +376,9 @@
         <mxCell id="7sfTBrK7Ykk_Bfz8LR5p-32" value="&lt;span style=&quot;box-sizing: border-box ; border: 0px solid ; color: rgb(17 , 17 , 51) ; font-family: , &amp;quot;blinkmacsystemfont&amp;quot; , &amp;quot;helvetica neue&amp;quot; , &amp;quot;helvetica&amp;quot; , &amp;quot;segoe ui&amp;quot; , &amp;quot;arial&amp;quot; , &amp;quot;roboto&amp;quot; , &amp;quot;pingfang sc&amp;quot; , &amp;quot;miui&amp;quot; , &amp;quot;hiragino sans gb&amp;quot; , &amp;quot;microsoft yahei&amp;quot; , sans-serif , &amp;quot;source han serif&amp;quot; ; letter-spacing: 0.064px ; text-align: left&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;GPIO扩展模块&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1496" y="193" width="140" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="7sfTBrK7Ykk_Bfz8LR5p-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7sfTBrK7Ykk_Bfz8LR5p-33" target="7sfTBrK7Ykk_Bfz8LR5p-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7sfTBrK7Ykk_Bfz8LR5p-33" value="&lt;span style=&quot;box-sizing: border-box ; border: 0px solid ; color: rgb(17 , 17 , 51) ; letter-spacing: 0.064px ; text-align: left&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;HC-SR501厕位监测模块1&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="1303" y="79" width="136" height="56" as="geometry" />
         </mxCell>
@@ -407,7 +410,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7sfTBrK7Ykk_Bfz8LR5p-43" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;......&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="1644" y="106" width="48" height="34" as="geometry" />
+          <mxGeometry x="1640" y="106" width="48" height="34" as="geometry" />
         </mxCell>
         <mxCell id="7sfTBrK7Ykk_Bfz8LR5p-52" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;OLED显示屏模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1938" y="320" width="120" height="60" as="geometry" />
