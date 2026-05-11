@@ -418,6 +418,30 @@
             <mxPoint x="1526" y="192" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="7sfTBrK7Ykk_Bfz8LR5p-52" value="OLED显示屏模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2110" y="288" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7sfTBrK7Ykk_Bfz8LR5p-53" value="温湿度监测模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2108.5" y="543" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7sfTBrK7Ykk_Bfz8LR5p-54" value="异味气体监测模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2108.5" y="471" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7sfTBrK7Ykk_Bfz8LR5p-55" value="红外监测客流量模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2103.5" y="398" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7sfTBrK7Ykk_Bfz8LR5p-56" value="烟雾浓度监测模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2109.5" y="611" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7sfTBrK7Ykk_Bfz8LR5p-57" value="继电器控制模块1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2109" y="680" width="121" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="7sfTBrK7Ykk_Bfz8LR5p-58" value="LED灯模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2110" y="757" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7sfTBrK7Ykk_Bfz8LR5p-59" value="风扇模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2110" y="841" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
