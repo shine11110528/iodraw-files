@@ -436,6 +436,11 @@
         <mxCell id="7sfTBrK7Ykk_Bfz8LR5p-56" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;烟雾浓度监测模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1938" y="647" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="7sfTBrK7Ykk_Bfz8LR5p-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="7sfTBrK7Ykk_Bfz8LR5p-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2104.86669921875" y="761" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="7sfTBrK7Ykk_Bfz8LR5p-57" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;继电器控制模块1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1937" y="735" width="121" height="52" as="geometry" />
         </mxCell>
@@ -470,9 +475,6 @@
             <mxPoint x="1875" y="818" as="sourcePoint" />
             <mxPoint x="1925" y="768" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="7sfTBrK7Ykk_Bfz8LR5p-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.001;entryY=0.448;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7sfTBrK7Ykk_Bfz8LR5p-57" target="7sfTBrK7Ykk_Bfz8LR5p-58">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
