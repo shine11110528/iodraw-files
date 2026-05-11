@@ -333,7 +333,7 @@
           <mxGeometry x="1392" y="284" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7sfTBrK7Ykk_Bfz8LR5p-17" value="ESP8266&lt;br&gt;WIFI模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1278" y="284" width="100" height="45" as="geometry" />
+          <mxGeometry x="1341" y="523.5" width="100" height="45" as="geometry" />
         </mxCell>
         <mxCell id="7sfTBrK7Ykk_Bfz8LR5p-18" value="阿里云IOT平台" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1198" y="150" width="120" height="80" as="geometry" />
