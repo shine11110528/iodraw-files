@@ -381,6 +381,9 @@
         <mxCell id="7sfTBrK7Ykk_Bfz8LR5p-31" value="HTTP协议" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="990" y="294" width="73" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="7sfTBrK7Ykk_Bfz8LR5p-32" value="&lt;span style=&quot;box-sizing: border-box ; border: 0px solid ; color: rgb(17 , 17 , 51) ; font-family: , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;segoe ui&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;miui&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , sans-serif , &amp;#34;source han serif&amp;#34; ; letter-spacing: 0.064px ; text-align: left&quot;&gt;GPIO扩展模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="495" y="99" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
