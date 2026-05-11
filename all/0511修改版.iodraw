@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.97 Safari/537.36 SE 2.X MetaSr 1.0" version="24.7.17">
   <diagram id="39a44_mZQ2UqoeBN9U-U" name="第 1 页">
-    <mxGraphModel dx="1442" dy="445" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2186" dy="763" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -345,10 +345,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7sfTBrK7Ykk_Bfz8LR5p-20" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;传输JSON格式数据&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="1228" y="417" width="174" height="34" as="geometry" />
+          <mxGeometry x="1223" y="420" width="174" height="34" as="geometry" />
         </mxCell>
         <mxCell id="7sfTBrK7Ykk_Bfz8LR5p-21" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;MQTT协议&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="1259" y="535" width="105" height="34" as="geometry" />
+          <mxGeometry x="1237" y="393" width="105" height="34" as="geometry" />
         </mxCell>
         <mxCell id="7sfTBrK7Ykk_Bfz8LR5p-22" value="传输JSON格式数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="1090" y="217" width="120" height="20" as="geometry" />
