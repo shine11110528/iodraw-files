@@ -422,7 +422,7 @@
           <mxGeometry x="1938" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7sfTBrK7Ykk_Bfz8LR5p-53" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;温湿度监测模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2108.5" y="543" width="120" height="60" as="geometry" />
+          <mxGeometry x="1938" y="563.75" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7sfTBrK7Ykk_Bfz8LR5p-54" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;异味气体监测模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1938" y="483" width="120" height="60" as="geometry" />
@@ -431,10 +431,10 @@
           <mxGeometry x="1938" y="403" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7sfTBrK7Ykk_Bfz8LR5p-56" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;烟雾浓度监测模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2109.5" y="611" width="120" height="60" as="geometry" />
+          <mxGeometry x="1938" y="647" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7sfTBrK7Ykk_Bfz8LR5p-57" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;继电器控制模块1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2109" y="680" width="121" height="53" as="geometry" />
+          <mxGeometry x="1937" y="734" width="121" height="53" as="geometry" />
         </mxCell>
         <mxCell id="7sfTBrK7Ykk_Bfz8LR5p-58" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;LED灯模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2110" y="757" width="120" height="60" as="geometry" />
