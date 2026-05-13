@@ -34,6 +34,9 @@
         <mxCell id="pMYHuUlBRdvGJQckyvEg-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pMYHuUlBRdvGJQckyvEg-9" target="pMYHuUlBRdvGJQckyvEg-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="pMYHuUlBRdvGJQckyvEg-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pMYHuUlBRdvGJQckyvEg-9" target="pMYHuUlBRdvGJQckyvEg-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pMYHuUlBRdvGJQckyvEg-9" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;温湿度CRC是否与读取到的字节一致&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="233" y="387" width="338" height="111" as="geometry" />
         </mxCell>
@@ -47,7 +50,7 @@
           <mxGeometry x="584" y="535" width="181" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pMYHuUlBRdvGJQckyvEg-18" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;否&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="636" y="413" width="36" height="34" as="geometry" />
+          <mxGeometry x="601" y="415" width="36" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
