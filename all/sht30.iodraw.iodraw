@@ -8,7 +8,7 @@
           <mxGeometry x="352" y="10" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pMYHuUlBRdvGJQckyvEg-3" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;结束&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="349" y="555" width="100" height="60" as="geometry" />
+          <mxGeometry x="371" y="789" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pMYHuUlBRdvGJQckyvEg-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;I2C发送测试命令0x2c26&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="311.5" y="102" width="181" height="60" as="geometry" />
@@ -22,7 +22,7 @@
         <mxCell id="pMYHuUlBRdvGJQckyvEg-9" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;温湿度CRC是否与读取到的字节一致&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="233" y="387" width="338" height="111" as="geometry" />
         </mxCell>
-        <mxCell id="pMYHuUlBRdvGJQckyvEg-10" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;读取6字节温湿度原始数据&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pMYHuUlBRdvGJQckyvEg-10" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;换算温度值&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="311.5" y="535" width="181" height="60" as="geometry" />
         </mxCell>
       </root>
