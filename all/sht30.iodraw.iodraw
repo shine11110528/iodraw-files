@@ -10,7 +10,10 @@
         <mxCell id="pMYHuUlBRdvGJQckyvEg-3" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;结束&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="352" y="372" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pMYHuUlBRdvGJQckyvEg-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pMYHuUlBRdvGJQckyvEg-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pMYHuUlBRdvGJQckyvEg-4" target="pMYHuUlBRdvGJQckyvEg-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pMYHuUlBRdvGJQckyvEg-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;I2C发送测试命令0x2c26&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="342" y="105" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
