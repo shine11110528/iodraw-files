@@ -419,53 +419,53 @@
     </mxGraphModel>
   </diagram>
   <diagram id="cyw0VBdb-dm-sKyBacVd" name="第 8 页">
-    <mxGraphModel dx="1500" dy="887" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1010" dy="534" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="1rN1Qv9JFmFTJ-XMWNyV-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="1rN1Qv9JFmFTJ-XMWNyV-1" target="1rN1Qv9JFmFTJ-XMWNyV-3">
+        <mxCell id="1rN1Qv9JFmFTJ-XMWNyV-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="1rN1Qv9JFmFTJ-XMWNyV-1" target="1rN1Qv9JFmFTJ-XMWNyV-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1rN1Qv9JFmFTJ-XMWNyV-1" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;开始&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="1rN1Qv9JFmFTJ-XMWNyV-1" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;开始&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="352" y="2" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1rN1Qv9JFmFTJ-XMWNyV-2" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;结束&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="1rN1Qv9JFmFTJ-XMWNyV-2" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;结束&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="352" y="637" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1rN1Qv9JFmFTJ-XMWNyV-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1rN1Qv9JFmFTJ-XMWNyV-3" target="1rN1Qv9JFmFTJ-XMWNyV-5">
+        <mxCell id="1rN1Qv9JFmFTJ-XMWNyV-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="1rN1Qv9JFmFTJ-XMWNyV-3" target="1rN1Qv9JFmFTJ-XMWNyV-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1rN1Qv9JFmFTJ-XMWNyV-3" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;关闭残留TCP并丢弃串口接收缓冲&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1rN1Qv9JFmFTJ-XMWNyV-3" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;关闭残留TCP并丢弃串口接收缓冲&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="312" y="89" width="181" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1rN1Qv9JFmFTJ-XMWNyV-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1rN1Qv9JFmFTJ-XMWNyV-5" target="1rN1Qv9JFmFTJ-XMWNyV-6">
+        <mxCell id="1rN1Qv9JFmFTJ-XMWNyV-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="1rN1Qv9JFmFTJ-XMWNyV-5" target="1rN1Qv9JFmFTJ-XMWNyV-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1rN1Qv9JFmFTJ-XMWNyV-5" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;初始化broker域名、端口及设备三元组&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1rN1Qv9JFmFTJ-XMWNyV-5" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;初始化broker域名、端口及设备三元组&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="312" y="180" width="181" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1rN1Qv9JFmFTJ-XMWNyV-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1rN1Qv9JFmFTJ-XMWNyV-6" target="1rN1Qv9JFmFTJ-XMWNyV-7">
+        <mxCell id="1rN1Qv9JFmFTJ-XMWNyV-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="1rN1Qv9JFmFTJ-XMWNyV-6" target="1rN1Qv9JFmFTJ-XMWNyV-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1rN1Qv9JFmFTJ-XMWNyV-6" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;生成并拼接IoT连接需要的签名字符串&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1rN1Qv9JFmFTJ-XMWNyV-6" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;生成并拼接IoT连接需要的签名字符串&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="312" y="270" width="181" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1rN1Qv9JFmFTJ-XMWNyV-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1rN1Qv9JFmFTJ-XMWNyV-7" target="1rN1Qv9JFmFTJ-XMWNyV-8">
+        <mxCell id="1rN1Qv9JFmFTJ-XMWNyV-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="1rN1Qv9JFmFTJ-XMWNyV-7" target="1rN1Qv9JFmFTJ-XMWNyV-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1rN1Qv9JFmFTJ-XMWNyV-7" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;利用HMAC_SHA256算法进行密钥转换&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1rN1Qv9JFmFTJ-XMWNyV-7" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;利用HMAC_SHA256算法进行密钥转换&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="312" y="362" width="181" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1rN1Qv9JFmFTJ-XMWNyV-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1rN1Qv9JFmFTJ-XMWNyV-8" target="1rN1Qv9JFmFTJ-XMWNyV-9">
+        <mxCell id="1rN1Qv9JFmFTJ-XMWNyV-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="1rN1Qv9JFmFTJ-XMWNyV-8" target="1rN1Qv9JFmFTJ-XMWNyV-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1rN1Qv9JFmFTJ-XMWNyV-8" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;组装MQTT_CONNECT原始载荷&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1rN1Qv9JFmFTJ-XMWNyV-8" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;组装MQTT_CONNECT原始载荷&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="311.5" y="456" width="181" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1rN1Qv9JFmFTJ-XMWNyV-9" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;AT建立TCP连接并发送CONNECT等待连接成功&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1rN1Qv9JFmFTJ-XMWNyV-9" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;AT建立TCP连接并发送CONNECT等待连接成功&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="312" y="548" width="181" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1rN1Qv9JFmFTJ-XMWNyV-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1rN1Qv9JFmFTJ-XMWNyV-9" target="1rN1Qv9JFmFTJ-XMWNyV-2">
+        <mxCell id="1rN1Qv9JFmFTJ-XMWNyV-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="1rN1Qv9JFmFTJ-XMWNyV-9" target="1rN1Qv9JFmFTJ-XMWNyV-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
@@ -513,7 +513,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GiXrAjOPD8zAiOvWugaU" name="第 10 页">
-    <mxGraphModel dx="1050" dy="621" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1010" dy="534" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
